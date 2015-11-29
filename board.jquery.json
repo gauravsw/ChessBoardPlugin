@@ -9,7 +9,7 @@
 		"type": "Apache3",
 		"url": "http://creativecommons.org/licenses/by/3.0/"
 	}],
-	"dependencies": [{
+	"dependencies": {
 		"jquery": "1.4.2"
-	}]
+	}
 }
